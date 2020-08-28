@@ -1,0 +1,2 @@
+# QL-Loan-Prediction-Project
+Loan prediction is a very common real-life problem that each retail bank faces at least once in its lifetime. If done correctly, it can save a lot of man-hours at the end of a retail bank. In this classification problem I have  predicted whether a loan would be approved or not,by doing its effective visualization using matplotlib,seaborn and build a machine learning model.
